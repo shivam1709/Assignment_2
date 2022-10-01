@@ -6,11 +6,7 @@ using System.Threading.Tasks;
 
 namespace Assignment_2
 {
-    internal class Program
+    internal class Rectangle
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello");
-        }
     }
 }
