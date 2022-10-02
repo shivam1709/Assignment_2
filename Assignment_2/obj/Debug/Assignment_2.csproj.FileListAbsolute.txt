@@ -6,3 +6,11 @@ C:\Users\Shivam\source\repos\Assignment_2\Assignment_2\obj\Debug\Assignment_2.cs
 C:\Users\Shivam\source\repos\Assignment_2\Assignment_2\obj\Debug\Assignment_2.csproj.CoreCompileInputs.cache
 C:\Users\Shivam\source\repos\Assignment_2\Assignment_2\obj\Debug\Assignment_2.exe
 C:\Users\Shivam\source\repos\Assignment_2\Assignment_2\obj\Debug\Assignment_2.pdb
+C:\Users\ADMIN\Assignment_2\Assignment_2\bin\Debug\Assignment_2.exe.config
+C:\Users\ADMIN\Assignment_2\Assignment_2\bin\Debug\Assignment_2.exe
+C:\Users\ADMIN\Assignment_2\Assignment_2\bin\Debug\Assignment_2.pdb
+C:\Users\ADMIN\Assignment_2\Assignment_2\obj\Debug\Assignment_2.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Assignment_2\Assignment_2\obj\Debug\Assignment_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\Assignment_2\Assignment_2\obj\Debug\Assignment_2.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Assignment_2\Assignment_2\obj\Debug\Assignment_2.exe
+C:\Users\ADMIN\Assignment_2\Assignment_2\obj\Debug\Assignment_2.pdb
