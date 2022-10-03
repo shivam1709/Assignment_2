@@ -17,7 +17,15 @@ namespace Assignment_2
             do
             {
                 Console.Write("Enter the length of the Rectangle: ");
-                length = int.Parse(Console.ReadLine());
+                try
+                {
+                    length = int.Parse(Console.ReadLine());
+                }
+                catch(Exception e)
+                {
+                    Console.WriteLine("Enter only integers");
+                }
+                
                 if (length <= 0)
                 {
                 
@@ -27,7 +35,14 @@ namespace Assignment_2
             do
             {
                 Console.Write("Enter the width of the Rectangle: ");
-                width = int.Parse(Console.ReadLine());
+                try
+                {
+                    width = int.Parse(Console.ReadLine());
+                }
+                catch(Exception e)
+                {
+                    Console.WriteLine("Enter only integers");
+                }
                 if (width <= 0)
                 {
 
